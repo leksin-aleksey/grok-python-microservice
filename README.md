@@ -9,4 +9,4 @@ What do we want to do?
 4. Save response to a local var
 5. Implement an endpoint to make calls to the service
 6. Respond to the user with the list of suggestions
-7. Save the list of suggestions to a file
+7. Please, save row by row with view line delimiter in the file
