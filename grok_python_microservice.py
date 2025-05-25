@@ -1,7 +1,8 @@
 import requests
+import os
 
-# My API Key
-api_key = "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"
+# API Key from environment variable
+api_key = os.environ['grok_token']
 
 # Endpoint Groq
 url = "https://api.groq.com/openai/v1/chat/completions"
