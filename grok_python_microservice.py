@@ -61,5 +61,3 @@ def grok_question(question: str) -> str:
 
     # Response answer
     print(response.json()["choices"][0]["message"]["content"])
-
-
