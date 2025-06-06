@@ -28,4 +28,4 @@ def grok_question(question: str) -> str:
     response = requests.post(url, json=payload, headers=headers)
 
     # Response answer
-    print(response.json()["choices"][0]["message"]["content"])
+    return response.json()["choices"][0]["message"]["content"]
