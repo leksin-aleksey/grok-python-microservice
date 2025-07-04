@@ -1,0 +1,170 @@
+[
+    {
+        "time_point": 0,
+        "steps_count": 0,
+        "heart_rate": 60.0,
+        "skin_temp": 36.5,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 1,
+        "steps_count": 0,
+        "heart_rate": 58.0,
+        "skin_temp": 36.4,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 2,
+        "steps_count": 0,
+        "heart_rate": 59.0,
+        "skin_temp": 36.3,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 3,
+        "steps_count": 0,
+        "heart_rate": 57.0,
+        "skin_temp": 36.2,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 4,
+        "steps_count": 0,
+        "heart_rate": 56.0,
+        "skin_temp": 36.1,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 5,
+        "steps_count": 0,
+        "heart_rate": 55.0,
+        "skin_temp": 36.0,
+        "event_flag": "sleep"
+    },
+    {
+        "time_point": 6,
+        "steps_count": 10,
+        "heart_rate": 65.0,
+        "skin_temp": 36.2,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 7,
+        "steps_count": 500,
+        "heart_rate": 120.0,
+        "skin_temp": 37.0,
+        "event_flag": "workout"
+    },
+    {
+        "time_point": 8,
+        "steps_count": 2000,
+        "heart_rate": 100.0,
+        "skin_temp": 37.2,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 9,
+        "steps_count": 3000,
+        "heart_rate": 90.0,
+        "skin_temp": 37.3,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 10,
+        "steps_count": 4000,
+        "heart_rate": 85.0,
+        "skin_temp": 37.4,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 11,
+        "steps_count": 5000,
+        "heart_rate": 80.0,
+        "skin_temp": 37.5,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 12,
+        "steps_count": 6000,
+        "heart_rate": 75.0,
+        "skin_temp": 37.6,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 13,
+        "steps_count": 4000,
+        "heart_rate": 70.0,
+        "skin_temp": 37.4,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 14,
+        "steps_count": 3000,
+        "heart_rate": 75.0,
+        "skin_temp": 37.3,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 15,
+        "steps_count": 2000,
+        "heart_rate": 80.0,
+        "skin_temp": 37.2,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 16,
+        "steps_count": 1000,
+        "heart_rate": 85.0,
+        "skin_temp": 37.1,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 17,
+        "steps_count": 500,
+        "heart_rate": 90.0,
+        "skin_temp": 37.0,
+        "event_flag": "normal"
+    },
+    {
+        "time_point": 18,
+        "steps_count": 800,
+        "heart_rate": 110.0,
+        "skin_temp": 37.2,
+        "event_flag": "workout"
+    },
+    {
+        "time_point": 19,
+        "steps_count": 200,
+        "heart_rate": 70.0,
+        "skin_temp": 36.9,
+        "event_flag": "resting"
+    },
+    {
+        "time_point": 20,
+        "steps_count": 100,
+        "heart_rate": 65.0,
+        "skin_temp": 36.8,
+        "event_flag": "idle"
+    },
+    {
+        "time_point": 21,
+        "steps_count": 50,
+        "heart_rate": 60.0,
+        "skin_temp": 36.7,
+        "event_flag": "idle"
+    },
+    {
+        "time_point": 22,
+        "steps_count": 0,
+        "heart_rate": 58.0,
+        "skin_temp": 36.6,
+        "event_flag": "resting"
+    },
+    {
+        "time_point": 23,
+        "steps_count": 0,
+        "heart_rate": 56.0,
+        "skin_temp": 36.5,
+        "event_flag": "sleep"
+    }
+]
